@@ -16,13 +16,13 @@
     <img 
         src = "https://github-readme-stats.vercel.app/api?username=Momen-G-Ar&count_private=true&hide_border=true&show_icons=true" 
         alt = "Momen-G-Ar's Contribution" 
-        width = 500 
+        width = 400 
         height = 200
     >
     <img 
         src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Momen-G-Ar&layout=compact&hide_border=true" 
         alt = "Momen-G-Ar's Contribution" 
-        width = 400 
+        width = 300 
         height = 200
     >
     <img 
