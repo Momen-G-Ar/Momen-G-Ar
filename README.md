@@ -7,7 +7,7 @@
 <h4>📄About Me </h4>
 
 -   👋 I'm Momin Arafa
--   🎓 I'm a 4th-year Computer Systems Engineering student at PPU 
+-   🎓 I'm a 4th-year Computer Systems Engineering student at PPU
 -   💻 I'm a Junior MERN stack developer
 -   🌱 I’m currently focusing on learning python and go and improve my experience in React
 <br/>
@@ -33,27 +33,36 @@
 </p>
 
 <h4>📱Contact me </h4>
-<p align="left" >
+<p align="left">
     <a 
         target="_blank" 
         href="https://www.linkedin.com/in/momen-arafeh-07613123b" 
     >
         <img 
-            width=50 
-            height=50 
+            height=20 
             alt="Momin Arafa on LinkedIn" 
-            src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"
+            src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=plastic"
         />
     </a>
+    <a 
+        target="_blank" 
+        href="https://t.me/MominArafa" 
+    >
+        <img 
+            height= 20 
+            alt="Momin Arafa on Telegram" 
+            src="https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&style=plastic"
+        />
+    </a>   
+    <br/>
     <a 
         target="_blank" 
         href="https://www.instagram.com/momenarafeh/" 
     >
         <img 
-            width= 50 
-            height= 50 
+            height= 20 
             alt="Momin Arafa on Instagram" 
-            src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg"
+            src="https://img.shields.io/badge/Instagram-Follow Me-red?logo=instagram&style=plastic"
         />
     </a>
     <a 
@@ -61,21 +70,9 @@
         href="https://www.facebook.com/momenarafeh22" 
     >
         <img 
-            width= 50 
-            height= 50 
+            height= 20 
             alt="Momin Arafa on Facebook" 
-            src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"
-        />
-    </a>   
-    <a 
-        target="_blank" 
-        href="https://t.me/MominArafa" 
-    >
-        <img 
-            width= 50 
-            height= 50 
-            alt="Momin Arafa on Telegram" 
-            src="https://user-images.githubusercontent.com/62269745/174492492-86a5817e-4fe3-4d95-b218-83c4a14ed0dc.svg"
+            src="https://img.shields.io/badge/Facebook-Follow Me-blue?logo=facebook&style=plastic"
         />
     </a>   
 </p>
