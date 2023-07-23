@@ -34,6 +34,7 @@
 <h4>📱Contact me </h4>
 <p align="left">
     <a 
+        title="LinkedIn"
         target="_blank" 
         href="https://www.linkedin.com/in/momen-arafeh-07613123b" 
     >
@@ -44,6 +45,7 @@
         />
     </a>
     <a 
+        title="Telegram"
         target="_blank" 
         href="https://t.me/MominArafa" 
     >
@@ -55,6 +57,7 @@
     </a>   
     <br/>
     <a 
+        title="Instagram"
         target="_blank" 
         href="https://www.instagram.com/momenarafeh/" 
     >
@@ -65,6 +68,7 @@
         />
     </a>
     <a 
+        title="Facebook"
         target="_blank" 
         href="https://www.facebook.com/momenarafeh22" 
     >
