@@ -266,16 +266,4 @@
             src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" 
         />
     </a>
-    <a 
-        title="React Native"
-        target="_blank" 
-        href="[https://ant.design](https://reactnative.dev/)"
-    >
-        <img 
-            width=40 
-            height=40 
-            alt="AntDesign"
-            src="https://reactnative.dev/img/header_logo.svg" 
-        />
-    </a>
 </p>
