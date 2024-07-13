@@ -7,7 +7,7 @@
 <h4>📄About Me </h4>
 
 -   👋 I'm Momin Arafa
--   🎓 I'm a 4th-year Computer Systems Engineering student at PPU
+-   🎓 I'm a 5th-year Computer Systems Engineering student at PPU
 -   💻 I'm a Junior MERN stack developer
 -   🌱 I’m currently focusing on learning redux and improve my experience in React
 <h4>📈Quick Overview</h4>
