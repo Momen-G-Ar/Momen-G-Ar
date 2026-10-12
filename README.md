@@ -5,7 +5,9 @@
 <h4>📄 About Me</h4>
 
 - 👋 I'm **Momin Arafa**, a C/C++ Software Engineer based in Hebron, Palestine
-- ⚙️ R&D Software Engineer at **Cadence** (via ASAL Technologies) on the **Jasper C** team (Jasper Formal Verification), working on the **C2RTL App**: C/C++ to RTL equivalence checking
+- ⚙️ R&D Software Engineer at **Cadence** (via ASAL Technologies) on the **Jasper C** team (Jasper Formal Verification), working on two apps:
+  - **CAF (C Auto Formal)**: formally finds linting violations in SystemC/C/C++ code
+  - **C2RTL**: C/C++ to RTL equivalence checking
 - 🛠️ I work on a custom compiler: static analysis, compiler design, and lint rules for SystemC code
 - 🎓 B.Sc. in Computer Systems Engineering from **Palestine Polytechnic University**, top 1% of my class
 - 🏆 **ACPC 2022 finalist**, competitive programming coach and problem setter
