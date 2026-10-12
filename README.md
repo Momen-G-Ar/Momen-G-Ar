@@ -1,5 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?label=Visits&username=Momen-G-Ar&color=brightgreen&style=plastic" />
-
 <h1>Hello there 👨‍💻</h1>
 
 <h4>📄 About Me</h4>
